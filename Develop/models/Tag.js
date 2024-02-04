@@ -26,4 +26,3 @@ Tag.init(
 );
 
 module.exports = Tag;
-le.exports = Tag;
